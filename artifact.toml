@@ -1,0 +1,31 @@
+kind = "web"
+previewPath = "/"
+title = "AI Document Vault"
+version = "1.0.0"
+id = "artifacts/doc-vault"
+router = "path"
+
+[[integratedSkills]]
+name = "react-vite"
+version = "1.0.0"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 19025
+
+[services.development]
+run = "pnpm --filter @workspace/doc-vault run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/doc-vault", "run", "build" ]
+publicDir = "artifacts/doc-vault/dist/public"
+serve = "static"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "19025"
+BASE_PATH = "/"

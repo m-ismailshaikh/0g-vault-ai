@@ -1,0 +1,3 @@
+- [API Zod schema naming](api-zod-naming.md) — Orval generates operation-derived names (CreateDocumentBody), not $ref names (DocumentInput)
+- [object-storage-web exclusion](object-storage-web.md) — lib excluded from tsconfig refs; use plain fetch + presigned URLs instead of Uppy
+- [0G Storage SDK](zerog-sdk.md) — official package is @0gfoundation/0g-storage-ts-sdk (NOT @0glabs/0g-ts-sdk); upload returns a union type requiring narrowing.
