@@ -1,0 +1,377 @@
+Transform my existing project into a professional hackathon-ready product called:
+
+# 0G Vault AI
+
+Tagline:
+"Your Personal AI Knowledge Vault Powered by 0G"
+
+The project should look like a modern AI startup product, not an admin dashboard.
+
+Use:
+- Next.js
+- TypeScript
+- Tailwind CSS
+- Framer Motion animations
+- Lucide Icons
+- Dark theme
+
+Color Palette:
+- Background: #050816
+- Card Background: #0B1020
+- Primary Blue: #3B82F6
+- Secondary Blue: #60A5FA
+- Purple Accent: #8B5CF6
+- Text White: #F8FAFC
+- Gray Text: #94A3B8
+
+Design Style:
+- Futuristic AI platform
+- Glassmorphism
+- Subtle glowing borders
+- Animated gradients
+- Premium SaaS feel
+- Similar quality to OpenAI, Vercel and modern Web3 products
+
+===================================
+LOGO & BRANDING
+===================================
+
+Replace DOC_VAULT branding with:
+
+0G Vault AI
+
+Create a logo using:
+- Hexagon icon
+- Neural network icon
+- Storage cube icon
+
+Display:
+
+0G Vault AI
+Powered by 0G Infrastructure
+
+Add glowing logo animation.
+
+===================================
+LANDING PAGE
+===================================
+
+Create a completely new landing page.
+
+Hero Section:
+
+Large headline:
+
+"Own Your Knowledge.
+Chat With Your Documents."
+
+Subheading:
+
+Store documents securely on decentralized infrastructure, search instantly, and interact with your knowledge using AI.
+
+Buttons:
+
+[ Launch Vault ]
+[ Watch Demo ]
+
+Add animated background:
+- Grid pattern
+- Floating particles
+- Blue and purple glow effects
+
+===================================
+FEATURES SECTION
+===================================
+
+Create 4 premium feature cards:
+
+1. Decentralized Storage
+Store files securely using 0G infrastructure.
+
+2. AI Document Chat
+Ask questions and get instant answers from your documents.
+
+3. Privacy First
+Your knowledge remains under your control.
+
+4. Lightning Search
+Find information across thousands of pages instantly.
+
+Add hover animations.
+
+===================================
+HOW IT WORKS SECTION
+===================================
+
+Create a visual workflow diagram:
+
+Upload File
+↓
+0G Storage
+↓
+AI Processing
+↓
+Knowledge Indexing
+↓
+Chat & Insights
+
+Use animated connecting lines.
+
+===================================
+AI CAPABILITIES SECTION
+===================================
+
+Show examples:
+
+"What are the key marketing strategies in my reports?"
+
+"Summarize all uploaded PDFs."
+
+"Generate a report from my documents."
+
+"What risks are mentioned across all files?"
+
+Display as interactive AI chat examples.
+
+===================================
+DASHBOARD REDESIGN
+===================================
+
+Completely redesign the dashboard.
+
+Title:
+
+Vault Overview
+
+Subtitle:
+
+AI Knowledge Engine Online
+
+Replace current stats cards with:
+
+Knowledge Indexed
+Display percentage ring progress
+
+Documents Stored
+
+AI Conversations
+
+Insights Generated
+
+Use animated counters.
+
+===================================
+QUICK ACTIONS
+===================================
+
+Add section:
+
+What would you like to do?
+
+Cards:
+
+Summarize Vault
+
+Search Knowledge
+
+Generate Report
+
+Find Key Insights
+
+Each card should have icons and hover effects.
+
+===================================
+ACTIVITY TIMELINE
+===================================
+
+Add modern activity feed:
+
+Document uploaded
+
+AI indexed document
+
+Summary generated
+
+Conversation started
+
+Knowledge graph updated
+
+Use timeline design.
+
+===================================
+RECENT DOCUMENTS
+===================================
+
+Improve document cards.
+
+Show:
+
+File Icon
+
+File Name
+
+File Size
+
+Upload Time
+
+Status Badge
+
+Indexed / Processing / Ready
+
+Add hover animations.
+
+===================================
+UPLOAD PAGE REDESIGN
+===================================
+
+Create a beautiful drag and drop upload interface.
+
+Large upload zone:
+
+Drop files here
+
+Supported:
+PDF
+DOCX
+TXT
+CSV
+
+Max 50MB
+
+Powered by 0G Storage
+
+Add animated upload effects.
+
+===================================
+UPLOAD PROGRESS
+===================================
+
+During upload show:
+
+Uploading to 0G Storage
+
+Progress Bar
+
+Then:
+
+Generating embeddings...
+
+Indexing knowledge...
+
+AI processing...
+
+Document ready.
+
+===================================
+AFTER UPLOAD EXPERIENCE
+===================================
+
+After upload display:
+
+Document Indexed Successfully
+
+File Name
+
+Page Count
+
+Word Count
+
+AI Generated Summary
+
+Buttons:
+
+Open Chat
+
+View Document
+
+Generate Insights
+
+===================================
+GLOBAL AI SEARCH
+===================================
+
+Add a prominent AI search bar.
+
+Placeholder:
+
+"Ask anything across your entire vault..."
+
+Examples:
+
+What are the main findings?
+
+Summarize all documents.
+
+Show all financial risks.
+
+Create executive summary.
+
+===================================
+SIDEBAR
+===================================
+
+Redesign sidebar.
+
+Sections:
+
+Dashboard
+
+Documents
+
+Conversations
+
+Knowledge Search
+
+Insights
+
+Settings
+
+Add glowing active states.
+
+===================================
+ANIMATIONS
+===================================
+
+Use Framer Motion throughout:
+
+Fade-ins
+
+Hover effects
+
+Card lift effects
+
+Animated counters
+
+Gradient movement
+
+Glowing borders
+
+Smooth page transitions
+
+===================================
+EMPTY STATES
+===================================
+
+If no documents exist show:
+
+"No knowledge stored yet"
+
+Upload your first document and unlock AI-powered insights.
+
+Button:
+
+Upload Document
+
+===================================
+HACKATHON READY
+===================================
+
+Add footer:
+
+Built with 0G Infrastructure
+
+Decentralized Storage
+AI-Powered Retrieval
+Knowledge Intelligence
+
+The final result should feel like a polished startup product that could win an AI + Web3 hackathon and impress judges immediately.
